@@ -1,3 +1,5 @@
+Run
+
 1.First Clone the project or download zip folder
 git clone https://github.com/YOUR_USERNAME/currency-converter.git
 
